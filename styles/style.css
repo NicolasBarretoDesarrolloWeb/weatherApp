@@ -1,0 +1,17 @@
+header{
+    height: 100px;
+    background-color:red;
+}
+.container-fluid{
+    background-color: #24f609;  
+    height: 600px;
+}
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+  }
+  .form {
+    width: 450px;
+  }
